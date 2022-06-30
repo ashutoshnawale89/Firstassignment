@@ -5,7 +5,7 @@ isemployee=1;
 employeerateperhour=20;
 
 
-empcheck=$((RANDOM%2)); 
+empcheck=$((RANDOM%2));
 
 case $empcheck in
 $isemployee)
@@ -17,4 +17,3 @@ esac
 sum=$(($employeerateperhour * $emphrsperday ));
 
 echo " employee wages is $sum "
-
