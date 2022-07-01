@@ -1,5 +1,6 @@
 #!/bin/bash -x
 
+
 isfulltimepresent=1;
 isworkingdayspermonth=20;
 empratehr=20;

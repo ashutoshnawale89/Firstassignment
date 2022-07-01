@@ -1,5 +1,7 @@
 #!/bin/bash -x
 
+
+
 isfulltimeemployee=1;
 isparttimeemployee=2;
 employeerateperhour=20;
